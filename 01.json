@@ -1,0 +1,24 @@
+{
+  "sites": [
+    {
+      "key": "新苹果",
+      "name": "新苹果🍎",
+      "type": 3,
+      "api": "csp_LiteAppleNew",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "小苹果",
+      "name": "小苹果🍎",
+      "type": 3,
+      "api": "csp_LiteApple",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    }
+  ],
+ 
+  "spider": "https://github.com/franklin87/new2306/blob/main/new2306.jar"
+}
