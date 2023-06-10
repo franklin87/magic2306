@@ -1,0 +1,23 @@
+{
+  "sites": [
+    {
+      "key": "新魔法",
+      "name": "新魔法🔥",
+      "type": 3,
+      "api": "csp_MagicNew",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "小魔法",
+      "name": "小魔法🔥",
+      "type": 3,
+      "api": "csp_MagicOld",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    }
+  ],
+  "spider": "https://raw.gitmirror.com/franklin87/magic2306/main/magic2306.jar"
+}
